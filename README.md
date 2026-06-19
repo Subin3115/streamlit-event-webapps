@@ -9,8 +9,8 @@ This repository contains web applications created for booth activities at Seoul 
 ## Projects
 
 ### 1. magic-mirror (Career Recommendation)
-
-An interactive career recommendation application based on user choices and MBTI-inspired personality traits.
+- Development Data: April 24, 2026
+- Purpose: An interactive career recommendation application based on user choices and MBTI-inspired personality traits.
 
 #### Features
 - Category-based exploration (Humanities, Engineering, Arts)
@@ -21,6 +21,8 @@ An interactive career recommendation application based on user choices and MBTI-
 ### 2. coming-of-age keyword generator
 
 A personalized keyword recommendation application developed for Coming-of-Age Day events.
+- Development Date: May 11, 2026
+- Purpose: A personalized keyword recommendation application developed for Coming-of-Age Day events.
 
 #### Features
 - User name input
